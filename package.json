@@ -1,0 +1,8 @@
+{
+  "name": "inbox-project-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WiFo26/inbox-project-blockchain.git",
+  "author": "Luis Ramirez <lou81804@gmail.com>",
+  "license": "MIT"
+}
